@@ -1,0 +1,242 @@
+[
+  {
+    "id": "myspace_profile_bling",
+    "name": "Myspace Profile Bling",
+    "summary": "Identity-forward profile decoration with transparent cutout graphics.",
+    "dominant_logic": "asset",
+    "common_motifs": [
+      "hearts",
+      "crowns",
+      "lips",
+      "stars"
+    ],
+    "palette_bias": [
+      "hot_pink",
+      "magenta",
+      "silver",
+      "black"
+    ],
+    "material_bias": [
+      "glitter",
+      "chrome",
+      "gel"
+    ],
+    "composition_bias": "sticker_clustered",
+    "emotional_bias": [
+      "flirty",
+      "performative",
+      "bratty"
+    ],
+    "drift_risks": [
+      "generic_social_stickers",
+      "overclean_vector"
+    ],
+    "best_use_cases": [
+      "profile nameplates",
+      "slogan badges",
+      "comment graphics"
+    ]
+  },
+  {
+    "id": "angelfire_shrine_chaos",
+    "name": "Angelfire Shrine Chaos",
+    "summary": "Worldbuilding page ecology with tiled backgrounds and widget clutter.",
+    "dominant_logic": "page_environment",
+    "common_motifs": [
+      "celestial",
+      "angel/devil",
+      "crossbones",
+      "stars"
+    ],
+    "palette_bias": [
+      "black",
+      "purple",
+      "cyan",
+      "white"
+    ],
+    "material_bias": [
+      "blinkies",
+      "glow",
+      "compression"
+    ],
+    "composition_bias": "portal_clutter",
+    "emotional_bias": [
+      "devotional",
+      "mystical",
+      "obsessive"
+    ],
+    "drift_risks": [
+      "generic_goth",
+      "empty_layout"
+    ],
+    "best_use_cases": [
+      "shrine pages",
+      "enter pages",
+      "link portals"
+    ]
+  },
+  {
+    "id": "blingee_core",
+    "name": "Blingee Core",
+    "summary": "Sparkle-heavy overlay collage language.",
+    "dominant_logic": "effect_stack",
+    "common_motifs": [
+      "stars",
+      "hearts",
+      "crowns"
+    ],
+    "palette_bias": [
+      "pink",
+      "purple",
+      "silver"
+    ],
+    "material_bias": [
+      "sparkle",
+      "animated_glitter"
+    ],
+    "composition_bias": "overlay_dense",
+    "emotional_bias": [
+      "dramatic"
+    ],
+    "drift_risks": [
+      "overblur",
+      "generic_glam"
+    ],
+    "best_use_cases": [
+      "photo overlays",
+      "animated badges"
+    ]
+  },
+  {
+    "id": "girly_slogan_graphics",
+    "name": "Girly Slogan Graphics",
+    "summary": "Short text-forward slogans with icon punctuation.",
+    "dominant_logic": "text_badge",
+    "common_motifs": [
+      "hearts",
+      "bows",
+      "crowns"
+    ],
+    "palette_bias": [
+      "bubblegum",
+      "pink",
+      "lavender"
+    ],
+    "material_bias": [
+      "gel_text",
+      "glitter"
+    ],
+    "composition_bias": "centered_badge",
+    "emotional_bias": [
+      "cute",
+      "assertive"
+    ],
+    "drift_risks": [
+      "kawaii_drift"
+    ],
+    "best_use_cases": [
+      "stickers",
+      "headers"
+    ]
+  },
+  {
+    "id": "cosmic_sticker_wallpaper",
+    "name": "Cosmic Sticker Wallpaper",
+    "summary": "Celestial sticker fields and repeating space motifs.",
+    "dominant_logic": "background_ecology",
+    "common_motifs": [
+      "moons",
+      "stars",
+      "planets"
+    ],
+    "palette_bias": [
+      "black",
+      "violet",
+      "cyan"
+    ],
+    "material_bias": [
+      "twinkle",
+      "noise"
+    ],
+    "composition_bias": "repeat_plus_cluster",
+    "emotional_bias": [
+      "dreamy",
+      "nocturnal"
+    ],
+    "drift_risks": [
+      "plain_space_art"
+    ],
+    "best_use_cases": [
+      "wallpapers",
+      "panel backgrounds"
+    ]
+  },
+  {
+    "id": "dark_cute_skull_glitter",
+    "name": "Dark Cute Skull Glitter",
+    "summary": "Cute/dark hybrid with skull motifs and glam effects.",
+    "dominant_logic": "symbolic_contrast",
+    "common_motifs": [
+      "skulls",
+      "bows",
+      "lips",
+      "stars"
+    ],
+    "palette_bias": [
+      "black",
+      "lavender",
+      "pink",
+      "silver"
+    ],
+    "material_bias": [
+      "glitter",
+      "halo"
+    ],
+    "composition_bias": "center_symbol_plus_fillers",
+    "emotional_bias": [
+      "playful_dark"
+    ],
+    "drift_risks": [
+      "pure_horror",
+      "generic_goth"
+    ],
+    "best_use_cases": [
+      "avatars",
+      "headers",
+      "badges"
+    ]
+  },
+  {
+    "id": "mall_kiosk_glam",
+    "name": "Mall Kiosk Glam",
+    "summary": "Airbrush/chrome custom-name graphic culture.",
+    "dominant_logic": "cheap_luxury",
+    "common_motifs": [
+      "chrome_swashes",
+      "gems",
+      "hearts"
+    ],
+    "palette_bias": [
+      "pink",
+      "silver",
+      "black"
+    ],
+    "material_bias": [
+      "chrome",
+      "bevel",
+      "airbrush_glow"
+    ],
+    "composition_bias": "nameplate_focus",
+    "emotional_bias": [
+      "aspirational",
+      "flashy"
+    ],
+    "drift_risks": [
+      "luxury_brand_minimalism"
+    ],
+    "best_use_cases": [
+      "name graphics",
+      "title cards"
+    ]
+  }
+]

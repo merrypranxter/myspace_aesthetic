@@ -1,0 +1,71 @@
+[
+  {
+    "id": "drift_generic_y2k",
+    "drift_name": "Generic Y2K Branding Drift",
+    "symptoms": [
+      "sleek chrome ads feel",
+      "minimal clutter"
+    ],
+    "likely_causes": [
+      "brand-inspired references",
+      "too-clean gradients"
+    ],
+    "repair_actions": [
+      "add widget ecology",
+      "add rough edges and compression",
+      "increase slogan tackiness"
+    ],
+    "neighboring_style": "y2k_revival_branding"
+  },
+  {
+    "id": "drift_clean_kawaii",
+    "drift_name": "Clean Kawaii Sticker Drift",
+    "symptoms": [
+      "pastel softness",
+      "rounded tidy vectors"
+    ],
+    "likely_causes": [
+      "kawaii datasets",
+      "muted shadows"
+    ],
+    "repair_actions": [
+      "switch to black stage",
+      "add chrome/glitter stack",
+      "inject bratty slogans"
+    ],
+    "neighboring_style": "kawaii_sticker_pack"
+  },
+  {
+    "id": "drift_vague_webcore",
+    "drift_name": "Vague Webcore Drift",
+    "symptoms": [
+      "nostalgia collage without substyle",
+      "random icons"
+    ],
+    "likely_causes": [
+      "insufficient page logic",
+      "missing motif hierarchy"
+    ],
+    "repair_actions": [
+      "enforce Myspace vs Angelfire split",
+      "apply composition grammar tiers"
+    ],
+    "neighboring_style": "webcore_generic"
+  },
+  {
+    "id": "drift_generic_goth",
+    "drift_name": "Generic Goth Drift",
+    "symptoms": [
+      "dark mood but no glam sparkle"
+    ],
+    "likely_causes": [
+      "horror references",
+      "no cheap-luxury cues"
+    ],
+    "repair_actions": [
+      "add glitter/chrome overlays",
+      "add cute-dark motif pairings"
+    ],
+    "neighboring_style": "gothic_web"
+  }
+]

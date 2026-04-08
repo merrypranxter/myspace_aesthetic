@@ -1,0 +1,127 @@
+[
+  {
+    "id": "glitter_text_assets",
+    "name": "Glitter Text Assets",
+    "description": "Text-first graphics for names and slogans.",
+    "common_forms": [
+      "nameplate",
+      "arched_title",
+      "animated_word"
+    ],
+    "typical_substyles": [
+      "myspace_profile_bling",
+      "mall_kiosk_glam"
+    ],
+    "common_effects": [
+      "glitter_mask",
+      "chrome_bevel",
+      "outer_glow"
+    ],
+    "common_palettes": [
+      "bubblegum_shock",
+      "nightclub_nebula"
+    ],
+    "typical_use_cases": [
+      "profile headings",
+      "badge slogans"
+    ]
+  },
+  {
+    "id": "slogan_badges",
+    "name": "Slogan Badges",
+    "description": "Compact attitude statements with icons.",
+    "common_forms": [
+      "oval_badge",
+      "ribbon_banner",
+      "stamp"
+    ],
+    "typical_substyles": [
+      "myspace_profile_bling",
+      "girly_slogan_graphics"
+    ],
+    "common_effects": [
+      "gel_fill",
+      "starburst"
+    ],
+    "common_palettes": [
+      "barbie_reactor",
+      "kiss_badge_pop"
+    ],
+    "typical_use_cases": [
+      "comments",
+      "signatures"
+    ]
+  },
+  {
+    "id": "motif_icons",
+    "name": "Motif Icon Packs",
+    "description": "Symbol cutouts for rapid styling.",
+    "common_forms": [
+      "single_icon",
+      "paired_icons",
+      "micro_sticker_set"
+    ],
+    "typical_substyles": [
+      "all"
+    ],
+    "common_effects": [
+      "white_outline",
+      "halo"
+    ],
+    "common_palettes": [
+      "cosmic_shrine"
+    ],
+    "typical_use_cases": [
+      "composition fillers"
+    ]
+  },
+  {
+    "id": "blinkies_buttons",
+    "name": "Separators Buttons Blinkies",
+    "description": "Functional decorative widgets.",
+    "common_forms": [
+      "88x31_button",
+      "horizontal_divider",
+      "blinkie_strip"
+    ],
+    "typical_substyles": [
+      "angelfire_shrine_chaos"
+    ],
+    "common_effects": [
+      "blink",
+      "dither"
+    ],
+    "common_palettes": [
+      "nightclub_nebula"
+    ],
+    "typical_use_cases": [
+      "navigation",
+      "section breaks"
+    ]
+  },
+  {
+    "id": "tiled_backgrounds",
+    "name": "Tiled Backgrounds & Wallpapers",
+    "description": "Repeating patterns for page stage building.",
+    "common_forms": [
+      "starfield_tile",
+      "heart_tile",
+      "filigree_tile"
+    ],
+    "typical_substyles": [
+      "angelfire_shrine_chaos",
+      "cosmic_sticker_wallpaper"
+    ],
+    "common_effects": [
+      "noise",
+      "twinkle"
+    ],
+    "common_palettes": [
+      "cosmic_shrine",
+      "goth_glow_gel"
+    ],
+    "typical_use_cases": [
+      "full page backgrounds"
+    ]
+  }
+]

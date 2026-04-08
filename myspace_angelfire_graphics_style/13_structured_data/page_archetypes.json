@@ -1,0 +1,68 @@
+[
+  {
+    "id": "myspace_profile_stack",
+    "name": "Myspace Profile Stack",
+    "description": "Profile module wrapped by badges and stickers.",
+    "dominant_substyle": "myspace_profile_bling",
+    "main_elements": [
+      "nameplate",
+      "slogan_badges",
+      "motif_stickers",
+      "comment_region"
+    ],
+    "layout_logic": "module_wrapping",
+    "mood": "performative_glam",
+    "drift_risks": [
+      "modern_social_ui"
+    ]
+  },
+  {
+    "id": "angelfire_shrine_portal",
+    "name": "Angelfire Shrine Portal",
+    "description": "Multi-section shrine homepage with dense navigation and widgets.",
+    "dominant_substyle": "angelfire_shrine_chaos",
+    "main_elements": [
+      "tiled_background",
+      "blinkie_dividers",
+      "button_rows",
+      "counter_guestbook_webring"
+    ],
+    "layout_logic": "stacked_portal",
+    "mood": "devotional_cosmic",
+    "drift_risks": [
+      "empty_dark_page"
+    ]
+  },
+  {
+    "id": "enter_splash_gate",
+    "name": "Enter Splash Gate",
+    "description": "Threshold page with single dramatic call to enter.",
+    "dominant_substyle": "angelfire_shrine_chaos",
+    "main_elements": [
+      "hero_badge",
+      "flash_text",
+      "decorative_border"
+    ],
+    "layout_logic": "centered_gate",
+    "mood": "theatrical",
+    "drift_risks": [
+      "plain_landing_page"
+    ]
+  },
+  {
+    "id": "sticker_wallpaper_board",
+    "name": "Sticker Wallpaper Board",
+    "description": "Dense sticker field composition for backgrounds.",
+    "dominant_substyle": "cosmic_sticker_wallpaper",
+    "main_elements": [
+      "repeat_tile",
+      "sticker_clusters",
+      "twinkle_layer"
+    ],
+    "layout_logic": "field_density",
+    "mood": "playful_nocturnal",
+    "drift_risks": [
+      "flat_pattern_pack"
+    ]
+  }
+]

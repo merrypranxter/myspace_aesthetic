@@ -1,0 +1,90 @@
+[
+  {
+    "id": "myspace_to_angelfire",
+    "display_name": "Myspace \u2194 Angelfire",
+    "description": "Shifts output from profile-asset logic to shrine-page ecology.",
+    "min_label": "Myspace Bling",
+    "max_label": "Angelfire Shrine",
+    "effect_on_output": "Higher values increase widgets, page clutter, and environmental composition."
+  },
+  {
+    "id": "cute_to_trashy_to_dark",
+    "display_name": "Cute/Trashy/Dark",
+    "description": "Tri-modal mood selector for symbol and palette behavior.",
+    "min_label": "Cute",
+    "max_label": "Dark",
+    "effect_on_output": "Moves motifs and palette from bubblegum to bratty chrome to blacklight skull-cosmic."
+  },
+  {
+    "id": "asset_to_page_environment",
+    "display_name": "Asset \u2194 Page Environment",
+    "description": "Controls scope from isolated graphics to full webpage scenes.",
+    "min_label": "Asset",
+    "max_label": "Page",
+    "effect_on_output": "Higher values add layout, widgets, and background systems."
+  },
+  {
+    "id": "static_to_animated",
+    "display_name": "Static \u2194 Animated",
+    "description": "Controls motion primitive density.",
+    "min_label": "Static",
+    "max_label": "Animated",
+    "effect_on_output": "Higher values introduce blink, twinkle, glitter sweep loops."
+  },
+  {
+    "id": "clean_cutout_to_artifact_rich",
+    "display_name": "Clean Cutout \u2194 Artifact Rich",
+    "description": "Adjusts edge roughness and compression texture.",
+    "min_label": "Cleaner",
+    "max_label": "Crunchier",
+    "effect_on_output": "Higher values add alpha fringes, dithering, and compression bite."
+  },
+  {
+    "id": "feminine_pop_to_cosmic_goth",
+    "display_name": "Feminine Pop \u2194 Cosmic Goth",
+    "description": "Shifts motif and color family.",
+    "min_label": "Feminine Pop",
+    "max_label": "Cosmic Goth",
+    "effect_on_output": "Higher values increase black/purple/celestial/skull elements."
+  },
+  {
+    "id": "clutter_level",
+    "display_name": "Clutter Level",
+    "description": "Density tier controller for macro/micro ornamentation.",
+    "min_label": "Sparse",
+    "max_label": "Overloaded",
+    "effect_on_output": "Higher values fill dead space with ornaments and widgets."
+  },
+  {
+    "id": "glitter_intensity",
+    "display_name": "Glitter Intensity",
+    "description": "Controls glitter coverage and sparkle frequency.",
+    "min_label": "Subtle",
+    "max_label": "Explosive",
+    "effect_on_output": "Higher values increase glitter masks and twinkle density."
+  },
+  {
+    "id": "chrome_intensity",
+    "display_name": "Chrome Intensity",
+    "description": "Controls metallic bevel prominence.",
+    "min_label": "Soft Gel",
+    "max_label": "Hard Chrome",
+    "effect_on_output": "Higher values sharpen gradients and specular streaks."
+  },
+  {
+    "id": "page_widget_density",
+    "display_name": "Widget Density",
+    "description": "Controls buttons/counters/guestbook/webring elements.",
+    "min_label": "Few",
+    "max_label": "Packed",
+    "effect_on_output": "Higher values add functional decorative modules."
+  },
+  {
+    "id": "shrine_intensity",
+    "display_name": "Shrine Intensity",
+    "description": "Controls devotional worldbuilding emphasis.",
+    "min_label": "Light Theme",
+    "max_label": "Full Shrine",
+    "effect_on_output": "Higher values add thematic sections, ritualized structure, and symbolic repetition."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "blink",
+    "name": "Blink",
+    "behavior": "Binary visibility toggle.",
+    "visual_use": "buttons and warning-like emphasis",
+    "timing_notes": "0.4-0.9s loop",
+    "intensity_level": "high",
+    "safety_notes": "Limit concurrent blink regions."
+  },
+  {
+    "id": "twinkle",
+    "name": "Twinkle",
+    "behavior": "Small opacity pulse with scale nudge.",
+    "visual_use": "ambient sparkle field",
+    "timing_notes": "1.8-4.0s staggered",
+    "intensity_level": "medium",
+    "safety_notes": "Use phase offsets."
+  },
+  {
+    "id": "glitter_sweep",
+    "name": "Glitter Sweep",
+    "behavior": "Moving highlight band across fills.",
+    "visual_use": "text and badge shine",
+    "timing_notes": "1.2-2.4s",
+    "intensity_level": "medium_high",
+    "safety_notes": "Avoid full-frame flashes."
+  },
+  {
+    "id": "starburst_pop",
+    "name": "Starburst Pop",
+    "behavior": "Short burst expansion then decay.",
+    "visual_use": "focal punctuation",
+    "timing_notes": "0.6-1.5s",
+    "intensity_level": "high",
+    "safety_notes": "Constrain burst count."
+  },
+  {
+    "id": "color_cycle",
+    "name": "Color Cycle",
+    "behavior": "Palette phase shift over loop.",
+    "visual_use": "blinkies and novelty text",
+    "timing_notes": "1.0-2.0s steps",
+    "intensity_level": "medium",
+    "safety_notes": "Keep contrast stable for text."
+  }
+]
