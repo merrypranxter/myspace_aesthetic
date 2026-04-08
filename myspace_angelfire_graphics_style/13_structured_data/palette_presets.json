@@ -1,0 +1,109 @@
+[
+  {
+    "id": "bubblegum_shock",
+    "name": "Bubblegum Shock",
+    "colors": {
+      "primary": "#ff4fcf",
+      "secondary": "#ff8ae2",
+      "accent": "#ffffff",
+      "base": "#2a001d"
+    },
+    "dominant_roles": {
+      "primary": "badge_fill",
+      "secondary": "glow",
+      "accent": "sparkle",
+      "base": "stage"
+    },
+    "mood": "flirty_loud",
+    "best_substyles": [
+      "myspace_profile_bling",
+      "girly_slogan_graphics"
+    ],
+    "contrast_notes": "High legibility on dark backgrounds."
+  },
+  {
+    "id": "barbie_reactor",
+    "name": "Barbie Reactor",
+    "colors": {
+      "primary": "#ff2bb8",
+      "secondary": "#ff66f0",
+      "accent": "#ffd8f7",
+      "base": "#111111"
+    },
+    "dominant_roles": {
+      "primary": "headline",
+      "secondary": "details",
+      "accent": "highlights",
+      "base": "background"
+    },
+    "mood": "bratty_pop",
+    "best_substyles": [
+      "myspace_profile_bling"
+    ],
+    "contrast_notes": "Use silver outlines to prevent pink bleed."
+  },
+  {
+    "id": "nightclub_nebula",
+    "name": "Nightclub Nebula",
+    "colors": {
+      "primary": "#7a2cff",
+      "secondary": "#b15bff",
+      "accent": "#e3c9ff",
+      "base": "#05020b"
+    },
+    "dominant_roles": {
+      "primary": "main_glow",
+      "secondary": "secondary_glow",
+      "accent": "text_highlight",
+      "base": "stage"
+    },
+    "mood": "nocturnal_glam",
+    "best_substyles": [
+      "angelfire_shrine_chaos",
+      "cosmic_sticker_wallpaper"
+    ],
+    "contrast_notes": "Add cyan sparks for punch."
+  },
+  {
+    "id": "goth_glow_gel",
+    "name": "Goth Glow Gel",
+    "colors": {
+      "primary": "#5d1ecb",
+      "secondary": "#a47dff",
+      "accent": "#f3e9ff",
+      "base": "#0c0715"
+    },
+    "dominant_roles": {
+      "primary": "shadow_glow",
+      "secondary": "object_fill",
+      "accent": "strokes",
+      "base": "bg"
+    },
+    "mood": "dark_cute",
+    "best_substyles": [
+      "dark_cute_skull_glitter"
+    ],
+    "contrast_notes": "Pair with white starbursts."
+  },
+  {
+    "id": "cosmic_shrine",
+    "name": "Cosmic Shrine",
+    "colors": {
+      "primary": "#6f00ff",
+      "secondary": "#00dbff",
+      "accent": "#ffffff",
+      "base": "#000000"
+    },
+    "dominant_roles": {
+      "primary": "celestial_elements",
+      "secondary": "edge_light",
+      "accent": "sparkle",
+      "base": "void"
+    },
+    "mood": "mystic_devotional",
+    "best_substyles": [
+      "angelfire_shrine_chaos"
+    ],
+    "contrast_notes": "Keep cyan limited to avoid cyberpunk drift."
+  }
+]

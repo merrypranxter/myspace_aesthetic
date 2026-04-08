@@ -1,0 +1,86 @@
+[
+  {
+    "id": "glitter_mask",
+    "name": "Glitter Mask",
+    "description": "Animated or implied sparkling texture fill.",
+    "visual_role": "surface_shine",
+    "style_function": "cheap_luxury_signal",
+    "common_pairings": [
+      "gel_text",
+      "white_outline"
+    ],
+    "drift_warnings": [
+      "overly realistic particles"
+    ]
+  },
+  {
+    "id": "starburst_puncture",
+    "name": "Starburst Puncture",
+    "description": "High-intensity sparkle bursts near focal points.",
+    "visual_role": "accent",
+    "style_function": "attention_spike",
+    "common_pairings": [
+      "chrome",
+      "halo"
+    ],
+    "drift_warnings": [
+      "lens_flare_cinematic_drift"
+    ]
+  },
+  {
+    "id": "chrome_bevel",
+    "name": "Chrome Bevel",
+    "description": "Simple metallic gradient + emboss edge.",
+    "visual_role": "material_identity",
+    "style_function": "mall_glam",
+    "common_pairings": [
+      "glitter_mask",
+      "shadow"
+    ],
+    "drift_warnings": [
+      "premium_brand_sleekness"
+    ]
+  },
+  {
+    "id": "gel_fill",
+    "name": "Gel Fill",
+    "description": "Candy-like translucent text fill.",
+    "visual_role": "playful_volume",
+    "style_function": "cute_pop_weight",
+    "common_pairings": [
+      "outline",
+      "sparkles"
+    ],
+    "drift_warnings": [
+      "too_soft_pastel"
+    ]
+  },
+  {
+    "id": "neon_halo",
+    "name": "Neon Halo",
+    "description": "Outer glow layer around assets.",
+    "visual_role": "separation",
+    "style_function": "black_stage_pop",
+    "common_pairings": [
+      "white_outline",
+      "twinkle"
+    ],
+    "drift_warnings": [
+      "clean_ui_glow"
+    ]
+  },
+  {
+    "id": "compression_bite",
+    "name": "Compression Bite",
+    "description": "Controlled lossy artifacts and banding.",
+    "visual_role": "authenticity_texture",
+    "style_function": "era_signal",
+    "common_pairings": [
+      "dither",
+      "low_res_edges"
+    ],
+    "drift_warnings": [
+      "extreme unreadability"
+    ]
+  }
+]

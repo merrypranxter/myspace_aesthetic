@@ -1,0 +1,83 @@
+{
+  "repo_name": "myspace_angelfire_graphics_style",
+  "style_name": "Early-Web Glitter Graphics: Myspace Bling + Angelfire Shrine Chaos",
+  "parent_style_summary": "Decorative, artifact-rich early-web visual language combining profile bling asset logic with shrine-page worldbuilding ecology.",
+  "substyles": [
+    "myspace_profile_bling",
+    "angelfire_shrine_chaos",
+    "blingee_core",
+    "girly_slogan_graphics",
+    "cosmic_sticker_wallpaper",
+    "dark_cute_skull_glitter",
+    "mall_kiosk_glam"
+  ],
+  "style_axes": [
+    "myspace_to_angelfire",
+    "cute_to_trashy_to_dark",
+    "asset_to_page_environment",
+    "static_to_animated",
+    "clean_cutout_to_artifact_rich",
+    "feminine_pop_to_cosmic_goth",
+    "clutter_level",
+    "glitter_intensity",
+    "chrome_intensity",
+    "page_widget_density",
+    "shrine_intensity"
+  ],
+  "core_traits": [
+    "glitter/sparkle effects",
+    "sticker cutouts",
+    "badge slogans",
+    "black-stage contrast",
+    "low-res charm",
+    "cheap-luxury surfaces"
+  ],
+  "required_traits": [
+    "tacky sincerity",
+    "high symbolic readability",
+    "artifact-positive rendering",
+    "substyle clarity"
+  ],
+  "forbidden_drift_targets": [
+    "generic_y2k_branding",
+    "clean_kawaii",
+    "vague_webcore",
+    "polished_retro_minimalism",
+    "generic_vaporwave"
+  ],
+  "common_background_modes": [
+    "black_starfield_tile",
+    "hot_pink_pattern_tile",
+    "purple_blacklight_gradient_with_noise"
+  ],
+  "common_surface_modes": [
+    "chrome_bevel",
+    "gel_text",
+    "glitter_mask",
+    "white_outline_with_halo",
+    "gif_dither"
+  ],
+  "emotional_register": [
+    "flirty",
+    "bratty",
+    "devotional",
+    "obsessive",
+    "dramatic"
+  ],
+  "rendering_bias": "Prefer visibly synthetic, low-res, compressed, layered webgraphic rendering over clean modern polish.",
+  "prompt_keywords": [
+    "glitter gif",
+    "myspace bling",
+    "angelfire shrine",
+    "blinkies",
+    "chrome text",
+    "black background sparkle"
+  ],
+  "anti_drift_keywords": [
+    "artifact-rich",
+    "tacky sincere",
+    "not polished",
+    "not minimalist",
+    "webpage ecology"
+  ]
+}

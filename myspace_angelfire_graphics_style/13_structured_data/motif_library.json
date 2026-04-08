@@ -1,0 +1,87 @@
+[
+  {
+    "family_id": "hearts_crowns_stars",
+    "family_name": "Hearts/Crowns/Stars",
+    "motifs": [
+      "heart",
+      "crown",
+      "star",
+      "sparkle_cluster"
+    ],
+    "meanings": [
+      "affection",
+      "status",
+      "shine",
+      "attention"
+    ],
+    "substyle_bias": {
+      "myspace_profile_bling": 0.9,
+      "angelfire_shrine_chaos": 0.6
+    },
+    "effect_affinities": [
+      "glitter",
+      "halo",
+      "chrome"
+    ],
+    "common_pairings": [
+      "lips",
+      "script_slogans"
+    ]
+  },
+  {
+    "family_id": "cute_dark_mix",
+    "family_name": "Skulls/Bunnies/Lips/Butterflies",
+    "motifs": [
+      "skull",
+      "bunny",
+      "lips",
+      "butterfly"
+    ],
+    "meanings": [
+      "rebellion",
+      "innocence",
+      "flirtation",
+      "transformation"
+    ],
+    "substyle_bias": {
+      "myspace_profile_bling": 0.8,
+      "angelfire_shrine_chaos": 0.7
+    },
+    "effect_affinities": [
+      "glitter",
+      "blacklight_glow"
+    ],
+    "common_pairings": [
+      "bows",
+      "starbursts"
+    ]
+  },
+  {
+    "family_id": "celestial_symbols",
+    "family_name": "Celestial/Spiritual Fillers",
+    "motifs": [
+      "moon",
+      "planet",
+      "angel_wings",
+      "devil_tail",
+      "crossbones"
+    ],
+    "meanings": [
+      "cosmic mood",
+      "devotion",
+      "drama"
+    ],
+    "substyle_bias": {
+      "myspace_profile_bling": 0.4,
+      "angelfire_shrine_chaos": 0.95
+    },
+    "effect_affinities": [
+      "twinkle",
+      "neon_halo"
+    ],
+    "common_pairings": [
+      "tiled_starfields",
+      "widget_frames"
+    ]
+  }
+]
