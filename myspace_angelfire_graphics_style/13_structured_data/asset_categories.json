@@ -123,5 +123,37 @@
     "typical_use_cases": [
       "full page backgrounds"
     ]
+  },
+  {
+    "id": "comment_reaction_gifs",
+    "name": "Comment Reaction GIFs",
+    "description": "Small emotionally explicit assets for Myspace comment threads.",
+    "common_forms": [
+      "name_callout_stamp",
+      "mood_loop_sticker",
+      "support_badge",
+      "drama_reaction_tag"
+    ],
+    "typical_substyles": [
+      "myspace_profile_bling",
+      "girly_slogan_graphics",
+      "dark_cute_skull_glitter"
+    ],
+    "common_effects": [
+      "glitter_mask",
+      "pink_halo",
+      "blink_flash",
+      "white_outline"
+    ],
+    "common_palettes": [
+      "bubblegum_shock",
+      "kiss_badge_pop",
+      "goth_glow_gel"
+    ],
+    "typical_use_cases": [
+      "comment replies",
+      "friend-wall reactions",
+      "event shoutouts"
+    ]
   }
 ]
