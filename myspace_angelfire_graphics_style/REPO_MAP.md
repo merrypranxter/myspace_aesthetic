@@ -20,3 +20,9 @@
 ## Canonical split
 - Myspace mode = personal branding assets
 - Angelfire mode = environmental shrine construction
+
+## New additions for comment-era workflows
+- `06_asset_categories/comment_reaction_gifs.md`: comment-thread specific asset behavior
+- `10_prompt_system/comment_graphic_prompt_templates.md`: ready-to-fill generation templates
+- `12_app_integration/comment_intent_mapping.md`: routing logic for assistants
+- `13_structured_data/comment_intents.json`: machine-readable intent presets

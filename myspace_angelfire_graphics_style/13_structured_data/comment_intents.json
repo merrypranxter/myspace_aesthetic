@@ -1,0 +1,47 @@
+[
+  {
+    "id": "supportive_reply",
+    "display_name": "Supportive Reply",
+    "description": "Warm friend-to-friend response graphics.",
+    "default_template": "template_a_friendly_return_comment",
+    "palette_preset": "bubblegum_shock",
+    "effect_stack": ["glitter_mask", "outer_glow", "white_outline"],
+    "animation_profile": "blink_medium"
+  },
+  {
+    "id": "event_shoutout",
+    "display_name": "Event Shoutout",
+    "description": "Birthday, congrats, and milestone comment graphics.",
+    "default_template": "template_b_birthday_event_shoutout",
+    "palette_preset": "barbie_reactor",
+    "effect_stack": ["chrome_bevel", "starburst", "glitter_sweep"],
+    "animation_profile": "flash_medium"
+  },
+  {
+    "id": "flirty_ping",
+    "display_name": "Flirty Ping",
+    "description": "Playful attention-seeking or affectionate one-liners.",
+    "default_template": "template_a_friendly_return_comment",
+    "palette_preset": "kiss_badge_pop",
+    "effect_stack": ["gel_fill", "heart_confetti", "pink_halo"],
+    "animation_profile": "twinkle_medium"
+  },
+  {
+    "id": "light_drama",
+    "display_name": "Light Drama",
+    "description": "Indirect dramatic reaction without explicit abuse.",
+    "default_template": "template_c_light_drama_reaction",
+    "palette_preset": "goth_glow_gel",
+    "effect_stack": ["neon_glow", "flash_cut", "micro_skull_icons"],
+    "animation_profile": "flash_fast"
+  },
+  {
+    "id": "nostalgic_signoff",
+    "display_name": "Nostalgic Signoff",
+    "description": "Guestbook-era courtesy signoffs and return comments.",
+    "default_template": "template_a_friendly_return_comment",
+    "palette_preset": "nightclub_nebula",
+    "effect_stack": ["dither_noise", "outer_glow", "sparkle_pass"],
+    "animation_profile": "blink_slow"
+  }
+]

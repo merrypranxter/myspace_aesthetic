@@ -22,3 +22,5 @@ A production-ready style system for **early-web glitter graphics**, split into t
 - Knobs: `12_app_integration/control_knobs.md`
 - Drift repairs: `11_drift_control/repair_strategies.md`
 - Data schema: `13_structured_data/style_spec.json`
+- Comment-thread generation: `10_prompt_system/comment_graphic_prompt_templates.md`
+- Comment intent data: `13_structured_data/comment_intents.json`
